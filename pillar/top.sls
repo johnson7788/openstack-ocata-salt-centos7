@@ -1,0 +1,4 @@
+base:
+  '*':
+    - openstack
+    - password
