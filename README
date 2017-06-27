@@ -1,1 +1,7 @@
 Centos7-Saltstack-Opestack Ocata
+Step1:
+Prepare the saltstack master and minion
+Step2:
+Modify the pillar/openstack.sls host IP and password, change the salt/top.sls target server
+Step3:
+deploy it
