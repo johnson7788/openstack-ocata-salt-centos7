@@ -1,7 +1,6 @@
 [ocata]
 name = ocata
-baseurl = ftp://10.37.10.139/ocata
-#baseurl=https://mirrors.aliyun.com/centos/7.3.1611/cloud/x86_64/openstack-ocata/
+baseurl=https://mirrors.aliyun.com/centos/7.3.1611/cloud/x86_64/openstack-ocata/
 enabled = 1
 gpgcheck = 0
 priority = 1
